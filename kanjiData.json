@@ -633,6 +633,23 @@
               "kunReading": "ゆう"
             }
           ]
+        },
+        {
+          "level": "N3",
+          "kanji": [
+            {
+              "character": "丸",
+              "meaning": "လုံးဝိုင်းသော",
+              "onReading": "ガン",
+              "kunReading": "まる, まる(める), まる(い)"
+            },
+            {
+              "character": "久",
+              "meaning": "ကြာမြင့်ပြီဖြစ်သော/ ‌ရှေးဟောင်း",
+              "onReading": "キュウ, ク",
+              "kunReading": "ひさ(しい)"
+            }
+          ]
         }
       ]
 }
