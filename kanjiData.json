@@ -1,0 +1,638 @@
+{
+    "kanjiData": [
+        {
+          "level": "N5",
+          "kanji": [
+            {
+              "character": "一",
+              "meaning": "တစ်",
+              "onReading": "イチ, イツ",
+              "kunReading": "ひと, ひと(つ)"
+            },
+            {
+              "character": "二",
+              "meaning": "နှစ်",
+              "onReading": "ニ, ジ",
+              "kunReading": "ふた, ふた(つ), ふたた(び)"
+            },
+            {
+              "character": "三",
+              "meaning": "သုံး",
+              "onReading": "サン, ゾウ",
+              "kunReading": "み, み(つ), みっ(つ)"
+            },
+            {
+              "character": "四",
+              "meaning": "လေး",
+              "onReading": "シ",
+              "kunReading": "よ, よ(つ), よっ(つ), よん"
+            },
+            {
+              "character": "五",
+              "meaning": "ငါး",
+              "onReading": "ゴ",
+              "kunReading": "いつ, いつ(つ)"
+            },
+            {
+              "character": "六",
+              "meaning": "ခြောက်",
+              "onReading": "ロク, リク",
+              "kunReading": "む, む(つ), むっ(つ), むい"
+            },
+            {
+              "character": "七",
+              "meaning": "ခုနှစ်",
+              "onReading": "シチ",
+              "kunReading": "なな, なな(つ), なの"
+            },
+            {
+              "character": "八",
+              "meaning": "ရှစ်",
+              "onReading": "ハチ",
+              "kunReading": "や, や(つ), やっ(つ), よう"
+            },
+            {
+              "character": "九",
+              "meaning": "ကိုး",
+              "onReading": "キュウ, ク",
+              "kunReading": "ここの, ここの(つ)"
+            },
+            {
+              "character": "十",
+              "meaning": "တစ်ဆယ်",
+              "onReading": "ジュウ, ジッ, ジュッ",
+              "kunReading": "とお, と"
+            },
+            {
+              "character": "人",
+              "meaning": "လူ",
+              "onReading": "ジン, ニン",
+              "kunReading": "ひと, り, と"
+            },
+            {
+              "character": "今",
+              "meaning": "ယခု",
+              "onReading": "コン, キン",
+              "kunReading": "いま"
+            },
+            {
+              "character": "日",
+              "meaning": "နေ့/ နေ",
+              "onReading": "ニチ, ジツ",
+              "kunReading": "ひ, び, か"
+            },
+            {
+              "character": "週",
+              "meaning": "တစ်ပတ်",
+              "onReading": "シュウ",
+              "kunReading": ""
+            },
+            {
+              "character": "月",
+              "meaning": "လ",
+              "onReading": "ゲツ, ガツ",
+              "kunReading": "つき"
+            },
+            {
+              "character": "年",
+              "meaning": "နှစ်",
+              "onReading": "ネン",
+              "kunReading": "とし"
+            },
+            {
+              "character": "中",
+              "meaning": "အတွင်း/ အလယ်",
+              "onReading": "チュウ",
+              "kunReading": "なか, うち, あた(る)"
+            },
+            {
+              "character": "山",
+              "meaning": "တောင်",
+              "onReading": "サン, セン",
+              "kunReading": "やま"
+            },
+            {
+              "character": "川",
+              "meaning": "မြစ်/ ချောင်း",
+              "onReading": "セン",
+              "kunReading": "かわ"
+            },
+            {
+              "character": "左",
+              "meaning": "ဘယ်ဘက်",
+              "onReading": "サ, シャ",
+              "kunReading": "ひだり"
+            },
+            {
+              "character": "右",
+              "meaning": "ညာဘက်",
+              "onReading": "ウ, ユウ",
+              "kunReading": "みぎ"
+            },
+            {
+              "character": "大",
+              "meaning": "ကြီးသော",
+              "onReading": "ダイ, タイ",
+              "kunReading": "おお, おお(きい), おお(いに)"
+            },
+            {
+              "character": "木",
+              "meaning": "သစ်ပင်/ သစ်သား",
+              "onReading": "ボク, モク",
+              "kunReading": "き, こ"
+            },
+            {
+              "character": "本",
+              "meaning": "စာအုပ်",
+              "onReading": "ホン",
+              "kunReading": "もと"
+            },
+            {
+              "character": "水",
+              "meaning": "ရေ",
+              "onReading": "スイ",
+              "kunReading": "みず"
+            },
+            {
+              "character": "火",
+              "meaning": "မီး",
+              "onReading": "カ",
+              "kunReading": "ひ, び, ほ"
+            },
+            {
+              "character": "父",
+              "meaning": "အဖေ",
+              "onReading": "フ",
+              "kunReading": "ちち"
+            },
+            {
+              "character": "母",
+              "meaning": "အမေ",
+              "onReading": "ボ",
+              "kunReading": "はは, も"
+            },
+            {
+              "character": "耳",
+              "meaning": "နား",
+              "onReading": "ジ",
+              "kunReading": "みみ"
+            },
+            {
+              "character": "口",
+              "meaning": "ပါးစပ်",
+              "onReading": "コウ, ク",
+              "kunReading": "くち"
+            },
+            {
+              "character": "休",
+              "meaning": "အနားယူသည်",
+              "onReading": "キュウ",
+              "kunReading": "やす(む), やす(まる), やす(める)"
+            },
+            {
+              "character": "何",
+              "meaning": "ဘာလဲ",
+              "onReading": "カ",
+              "kunReading": "なに, なん"
+            },
+            {
+              "character": "入",
+              "meaning": "ဝင်သည်/ ဖြည့်သည်",
+              "onReading": "ニュウ, ジュ",
+              "kunReading": "い(る), い(り), い(れる), い(れ)"
+            },
+            {
+              "character": "上",
+              "meaning": "အထက်/ အပေါ်",
+              "onReading": "ジョウ, ショウ, シャン",
+              "kunReading": "うえ, うわ, かみ, あ(げる)"
+            },
+            {
+              "character": "前",
+              "meaning": "အရှေ့/ မတိုင်ခင်",
+              "onReading": "ゼン",
+              "kunReading": "まえ"
+            },
+            {
+              "character": "下",
+              "meaning": "အောက်",
+              "onReading": "カ, ゲ",
+              "kunReading": "した, しも, もと, さ(げる)"
+            },
+            {
+              "character": "千",
+              "meaning": "တစ်ထောင်",
+              "onReading": "セン",
+              "kunReading": "ち"
+            },
+            {
+              "character": "午",
+              "meaning": "မွန်းတည့်",
+              "onReading": "ゴ",
+              "kunReading": "うま"
+            },
+            {
+              "character": "友",
+              "meaning": "သူငယ်ချင်း",
+              "onReading": "ユウ",
+              "kunReading": "とも"
+            },
+            {
+              "character": "古",
+              "meaning": "ဟောင်းသော",
+              "onReading": "コ",
+              "kunReading": "ふる(い), ふる(す)"
+            },
+            {
+              "character": "名",
+              "meaning": "နာမည်",
+              "onReading": "メイ, ミョウ",
+              "kunReading": "な"
+            },
+            {
+              "character": "国",
+              "meaning": "တိုင်းပြည်",
+              "onReading": "コク",
+              "kunReading": "くに"
+            },
+            {
+              "character": "外",
+              "meaning": "အပြင်ဘက်",
+              "onReading": "ガイ, ゲ",
+              "kunReading": "そと, ほか, はず(す), はず(れる)"
+            },
+            {
+              "character": "女",
+              "meaning": "မိန်းမ",
+              "onReading": "ジョ, ニョ, ニョウ",
+              "kunReading": "おんな, め"
+            },
+            {
+              "character": "男",
+              "meaning": "ယောင်္ကျား",
+              "onReading": "ダン, ナン",
+              "kunReading": "おとこ, お"
+            },
+            {
+              "character": "子",
+              "meaning": "ကလေး",
+              "onReading": "シ, ス, ツ",
+              "kunReading": "こ, ね"
+            },
+            {
+              "character": "学",
+              "meaning": "လေ့လာသည်",
+              "onReading": "ガク",
+              "kunReading": "まな(ぶ)"
+            },
+            {
+              "character": "生",
+              "meaning": "အသက်/ မွေးနေ့",
+              "onReading": "セイ, ショウ",
+              "kunReading": "い(きる), い(かす), い(ける)"
+            },
+            {
+              "character": "小",
+              "meaning": "သေးငယ်သော",
+              "onReading": "ショウ",
+              "kunReading": "ちい(さい), こ, お, さ"
+            },
+            {
+              "character": "書",
+              "meaning": "ရေးသည်",
+              "onReading": "ショ",
+              "kunReading": "か(く), が(き)"
+            },
+            {
+              "character": "毎",
+              "meaning": "အမြဲတမ်း",
+              "onReading": "マイ",
+              "kunReading": "ごと, ごと(に)"
+            },
+            {
+              "character": "先",
+              "meaning": "အရင်က",
+              "onReading": "セン",
+              "kunReading": "さき, ま(ず)"
+            },
+            {
+              "character": "会",
+              "meaning": "တွေ့ဆုံသည်/ အဖွဲ့အစည်း",
+              "onReading": "カイ, エ",
+              "kunReading": "あ(う), あ(わせる), あつ(まる)"
+            },
+            {
+              "character": "万",
+              "meaning": "တစ်သောင်း",
+              "onReading": "マン, バン",
+              "kunReading": "よろず"
+            },
+            {
+              "character": "円",
+              "meaning": "ဂျပန် yen/ လုံးဝိုင်းသော",
+              "onReading": "エン",
+              "kunReading": "まる(い), まる, まど, まど(か)"
+            },
+            {
+              "character": "出",
+              "meaning": "ထွက်သည်",
+              "onReading": "シュツ, スイ",
+              "kunReading": "で(る), で, だ(す), い(でる)"
+            },
+            {
+              "character": "分",
+              "meaning": "မိနစ်/ နားလည်သည်",
+              "onReading": "ブン, フン, ブ",
+              "kunReading": "わ(ける), わ(け), わ(かれる)"
+            },
+            {
+              "character": "北",
+              "meaning": "မြောက်ဘက်",
+              "onReading": "ホク",
+              "kunReading": "きた"
+            },
+            {
+              "character": "半",
+              "meaning": "တစ်ဝက်/ အလယ်",
+              "onReading": "ハン",
+              "kunReading": "なか(ば)"
+            },
+            {
+              "character": "南",
+              "meaning": "တောင်ဘက်",
+              "onReading": "ナン, ナ",
+              "kunReading": "みなみ"
+            },
+            {
+              "character": "土",
+              "meaning": "မြေကြီး",
+              "onReading": "ド, ト",
+              "kunReading": "つち"
+            },
+            {
+              "character": "多",
+              "meaning": "များသော",
+              "onReading": "タ",
+              "kunReading": "おお(い), まさ(に), まさ(る)"
+            },
+            {
+              "character": "天",
+              "meaning": "ကောင်းကင်ဘုံ",
+              "onReading": "テン",
+              "kunReading": "あまつ, あめ, あま"
+            },
+            {
+              "character": "安",
+              "meaning": "‌စျေးသက်သာသော",
+              "onReading": "アン",
+              "kunReading": "やす(い), やす(まる), やす"
+            },
+            {
+              "character": "少",
+              "meaning": "နည်းသော",
+              "onReading": "ショウ",
+              "kunReading": "すく(ない), すこ(し)"
+            },
+            {
+              "character": "店",
+              "meaning": "ဆိုင်",
+              "onReading": "テン",
+              "kunReading": "みせ, たな"
+            },
+            {
+              "character": "後",
+              "meaning": "အနောက်ဘက်",
+              "onReading": "ゴ, コウ",
+              "kunReading": "のち, うし(ろ), うしろ, あと"
+            },
+            {
+              "character": "手",
+              "meaning": "လက်",
+              "onReading": "シュ, ズ",
+              "kunReading": "て, た"
+            },
+            {
+              "character": "新",
+              "meaning": "အသစ်",
+              "onReading": "シン",
+              "kunReading": "あたら(しい), あら(た), あら"
+            },
+            {
+              "character": "時",
+              "meaning": "အချိန်/ နာရီ",
+              "onReading": "ジ",
+              "kunReading": "とき, どき"
+            },
+            {
+              "character": "来",
+              "meaning": "လာသည်",
+              "onReading": "ライ, タイ",
+              "kunReading": "く(る), きた(る), きた(す)"
+            },
+            {
+              "character": "東",
+              "meaning": "အရှေ့ဘက်",
+              "onReading": "トウ",
+              "kunReading": "ひがし"
+            },
+            {
+              "character": "校",
+              "meaning": "စာမေးပွဲ/ ကျောင်း",
+              "onReading": "コウ, キョウ",
+              "kunReading": ""
+            },
+            {
+              "character": "気",
+              "meaning": "စိတ်/ လေ",
+              "onReading": "キ, ケ",
+              "kunReading": "いき"
+            },
+            {
+              "character": "白",
+              "meaning": "အဖြူ",
+              "onReading": "ハク, ビャク",
+              "kunReading": "しろ, しら, しろ(い)"
+            },
+            {
+              "character": "百",
+              "meaning": "တစ်ရာ",
+              "onReading": "ヒャク, ビャク",
+              "kunReading": "もも"
+            },
+            {
+              "character": "目",
+              "meaning": "မျက်လုံး",
+              "onReading": "モク, ボク",
+              "kunReading": "め, ま"
+            },
+            {
+              "character": "社",
+              "meaning": "ကုမ္ပဏီ",
+              "onReading": "シャ",
+              "kunReading": "やしろ"
+            },
+            {
+              "character": "空",
+              "meaning": "ကောင်းကင်/ လေ/ ဗလာ",
+              "onReading": "クウ",
+              "kunReading": "そら, あ(く), あ(き), あ(ける)"
+            },
+            {
+              "character": "立",
+              "meaning": "မတ်တပ်ရပ်သည်",
+              "onReading": "リツ, リュウ, リットル",
+              "kunReading": "た(つ), た(ち), た(てる), た(て)"
+            },
+            {
+              "character": "聞",
+              "meaning": "နားထောင်/ မေးသည်/ ကြားသည်",
+              "onReading": "ブン, モン",
+              "kunReading": "き(く), き(こえる)"
+            },
+            {
+              "character": "花",
+              "meaning": "ပန်း",
+              "onReading": "カ, ケ",
+              "kunReading": "はな"
+            },
+            {
+              "character": "行",
+              "meaning": "သွားသည်",
+              "onReading": "コウ, ギョウ, アン",
+              "kunReading": "い(く), ゆ(く), ゆ(き), い(き)"
+            },
+            {
+              "character": "西",
+              "meaning": "အနောက်",
+              "onReading": "セイ, サイ, ス",
+              "kunReading": "にし"
+            },
+            {
+              "character": "見",
+              "meaning": "မြင်သည်",
+              "onReading": "ケン",
+              "kunReading": "み(る), み(える), み(せる)"
+            },
+            {
+              "character": "言",
+              "meaning": "ပြောသည်",
+              "onReading": "ゲン, ゴン",
+              "kunReading": "い(う), こと"
+            },
+            {
+              "character": "話",
+              "meaning": "ပြောသည်",
+              "onReading": "ワ",
+              "kunReading": "はな(す), はなし"
+            },
+            {
+              "character": "語",
+              "meaning": "ဘာသာစကား",
+              "onReading": "ゴ",
+              "kunReading": "かた(る), かた(らう)"
+            },
+            {
+              "character": "読",
+              "meaning": "ဖတ်သည်",
+              "onReading": "ドク, トク, トウ",
+              "kunReading": "よ(む)"
+            },
+            {
+              "character": "買",
+              "meaning": "ဝယ်သည်",
+              "onReading": "バイ",
+              "kunReading": "か(う)"
+            },
+            {
+              "character": "足",
+              "meaning": "ခြေထောက်",
+              "onReading": "ソク",
+              "kunReading": "あし, た(りる), た(る), た(す)"
+            },
+            {
+              "character": "車",
+              "meaning": "ကား",
+              "onReading": "シャ",
+              "kunReading": "くるま"
+            },
+            {
+              "character": "道",
+              "meaning": "လမ်း",
+              "onReading": "ドウ, トウ",
+              "kunReading": "みち"
+            },
+            {
+              "character": "金",
+              "meaning": "ငွေ/ ရွှေရွှေ",
+              "onReading": "キン, コン, ゴン",
+              "kunReading": "かね, かな, がね"
+            },
+            {
+              "character": "長",
+              "meaning": "ရှည်သော/ ခေါင်းဆောင်",
+              "onReading": "チョウ",
+              "kunReading": "なが(い), おさ"
+            },
+            {
+              "character": "間",
+              "meaning": "ကြားကာလ/ နေရာ",
+              "onReading": "カン, ケン",
+              "kunReading": "あいだ, ま, あい"
+            },
+            {
+              "character": "雨",
+              "meaning": "မိုး",
+              "onReading": "ウ",
+              "kunReading": "あめ, あま, さめ"
+            },
+            {
+              "character": "電",
+              "meaning": "လျှပ်စစ်မီး",
+              "onReading": "デン",
+              "kunReading": ""
+            },
+            {
+              "character": "食",
+              "meaning": "စားသည်/ အစားအစာ",
+              "onReading": "ショク, ジキ",
+              "kunReading": "く(う), く(らう), た(べる), は(む)"
+            },
+            {
+              "character": "飲",
+              "meaning": "သောက်သည်",
+              "onReading": "イン, オン",
+              "kunReading": "の(む), の(み)"
+            },
+            {
+              "character": "高",
+              "meaning": "မြင့်မားသော/ စျေးကြီးသော",
+              "onReading": "コウ",
+              "kunReading": "たか(い), たか, だか(まる)"
+            },
+            {
+              "character": "魚",
+              "meaning": "ငါး",
+              "onReading": "ギョ",
+              "kunReading": "うお, さかな, ざかな"
+            }
+          ]
+        },
+        {
+          "level": "N4",
+          "kanji": [
+            {
+              "character": "語",
+              "meaning": "Language",
+              "onReading": "ゴ",
+              "kunReading": "かた(る), かた(らう)"
+            },
+            {
+              "character": "聞",
+              "meaning": "Hear",
+              "onReading": "ブン, モン",
+              "kunReading": "き(く), き(こえる)"
+            }
+          ]
+        }
+      ]
+}
