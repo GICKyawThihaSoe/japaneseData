@@ -1,0 +1,19 @@
+{
+    "kanjiData": [
+        {
+          "level": "N3",
+          "kanji": [
+            {
+              "character": "男性",
+              "meaning": "အမျိုးသား",
+              "onReading": "だんせい"
+            },
+            {
+              "character": "女性",
+              "meaning": "အမျိုးသမီး",
+              "onReading": "じょせい"
+            }
+          ]
+        }
+      ]
+}
