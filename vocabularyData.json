@@ -1,19 +1,59 @@
 {
     "kanjiData": [
         {
-          "level": "N3",
-          "kanji": [
-            {
-              "character": "男性",
-              "meaning": "အမျိုးသား",
-              "onReading": "だんせい"
-            },
-            {
-              "character": "女性",
-              "meaning": "အမျိုးသမီး",
-              "onReading": "じょせい"
-            }
-          ]
+            "level": "N3",
+            "kanji": [
+                {
+                    "character": "男性",
+                    "meaning": "အမျိုးသား",
+                    "onReading": "だんせい"
+                },
+                {
+                    "character": "女性",
+                    "meaning": "အမျိုးသမီး",
+                    "onReading": "じょせい"
+                },
+                {
+                    "character": "高齢",
+                    "meaning": "အသက်ကြီးခြင်း",
+                    "onReading": "こうれい"
+                },
+                {
+                    "character": "年上",
+                    "meaning": "မိမိထက်အသက်ကြီးသူသူ",
+                    "onReading": "としうえ"
+                },
+                {
+                    "character": "目上",
+                    "meaning": "အထက်လူကြီး",
+                    "onReading": "めうえ"
+                },
+                {
+                    "character": "先輩",
+                    "meaning": "စီနီယာ",
+                    "onReading": "せんぱい"
+                },
+                {
+                    "character": "後輩",
+                    "meaning": "ဂျူနီယာ",
+                    "onReading": "こうはい"
+                },
+                {
+                    "character": "上司",
+                    "meaning": "အထက်လူကြီး",
+                    "onReading": "じょうし"
+                },
+                {
+                    "character": "相手",
+                    "meaning": "တစ်ဖက်လူ",
+                    "onReading": "あいて"
+                },
+                {
+                    "character": "知り合い",
+                    "meaning": "အသိမိတ်ဆွေ",
+                    "onReading": "しりあい"
+                }
+            ]
         }
-      ]
+    ]
 }
