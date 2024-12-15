@@ -621,16 +621,16 @@
           "level": "N4",
           "kanji": [
             {
-              "character": "語",
-              "meaning": "Language",
-              "onReading": "ゴ",
-              "kunReading": "かた(る), かた(らう)"
+              "character": "力",
+              "meaning": "ခွန်အား",
+              "onReading": "リョク, リキ, リイ",
+              "kunReading": "ちから"
             },
             {
-              "character": "聞",
-              "meaning": "Hear",
-              "onReading": "ブン, モン",
-              "kunReading": "き(く), き(こえる)"
+              "character": "夕",
+              "meaning": "ညနေ",
+              "onReading": "セキ",
+              "kunReading": "ゆう"
             }
           ]
         }
