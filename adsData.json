@@ -4,7 +4,7 @@
         "status": "true",
         "ads": [
           {
-            "image": "https://raw.githubusercontent.com/GICKyawThihaSoe/japaneseData/refs/heads/main/assets/images/appicon.png"
+            "image": "./assets/images/appicon.png"
           }
         ]
       }
