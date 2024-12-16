@@ -382,6 +382,226 @@
                     "character": "湿気",
                     "meaning": "စိုထိုင်းဆ",
                     "onReading": "しっけ"
+                },
+                {
+                    "character": "梅雨",
+                    "meaning": "မိုးရာသီ",
+                    "onReading": "つゆ"
+                },
+                {
+                    "character": "",
+                    "meaning": "မှို",
+                    "onReading": "かび"
+                },
+                {
+                    "character": "暖房",
+                    "meaning": "အပူပေးစက်",
+                    "onReading": "だんぼう"
+                },
+                {
+                    "character": "皮",
+                    "meaning": "အခွံ",
+                    "onReading": "かわ"
+                },
+                {
+                    "character": "缶",
+                    "meaning": "သံဗူး",
+                    "onReading": "かん"
+                },
+                {
+                    "character": "画面",
+                    "meaning": "ဖန်သားပြင်",
+                    "onReading": "がめん"
+                },
+                {
+                    "character": "番組",
+                    "meaning": "အစီအစဥ်",
+                    "onReading": "ばんぐみ"
+                },
+                {
+                    "character": "記事",
+                    "meaning": "ဆောင်းပါး",
+                    "onReading": "きじ"
+                },
+                {
+                    "character": "近所",
+                    "meaning": "အိမ်နီးချင်း",
+                    "onReading": "きんじょ"
+                },
+                {
+                    "character": "警察",
+                    "meaning": "ရဲသား",
+                    "onReading": "けいさつ"
+                },
+                {
+                    "character": "犯人",
+                    "meaning": "တရားခံ",
+                    "onReading": "はんにん"
+                },
+                {
+                    "character": "小銭",
+                    "meaning": "အကြွေ",
+                    "onReading": "こぜに"
+                },
+                {
+                    "character": "",
+                    "meaning": "စားကောင်းသောက်ဖွယ်",
+                    "onReading": "ごちそう"
+                },
+                {
+                    "character": "作者",
+                    "meaning": "စာရေးဆရာ",
+                    "onReading": "さくしゃ"
+                },
+                {
+                    "character": "作品",
+                    "meaning": "အနုပညာလက်ရာ",
+                    "onReading": "さくひん"
+                },
+                {
+                    "character": "制服",
+                    "meaning": "ယူနီဖောင်း",
+                    "onReading": "せいふく"
+                },
+                {
+                    "character": "洗剤",
+                    "meaning": "ဆပ်ပြာ",
+                    "onReading": "せんざい"
+                },
+                {
+                    "character": "底",
+                    "meaning": "အောက်ခြေ",
+                    "onReading": "そこ"
+                },
+                {
+                    "character": "地下",
+                    "meaning": "မြေအောက်",
+                    "onReading": "ちか"
+                },
+                {
+                    "character": "寺",
+                    "meaning": "ဘုရားကျောင်း",
+                    "onReading": "てら"
+                },
+                {
+                    "character": "道路",
+                    "meaning": "လမ်း/ လမ်းမ",
+                    "onReading": "どうろ"
+                },
+                {
+                    "character": "坂",
+                    "meaning": "ကုန်းလျှော",
+                    "onReading": "さか"
+                },
+                {
+                    "character": "煙",
+                    "meaning": "မီးခိုး",
+                    "onReading": "けむり"
+                },
+                {
+                    "character": "灰",
+                    "meaning": "ပြာ",
+                    "onReading": "はい"
+                },
+                {
+                    "character": "判",
+                    "meaning": "တံဆိပ်တုံး/ တံဆိပ်",
+                    "onReading": "はん"
+                },
+                {
+                    "character": "名刺",
+                    "meaning": "လိပ်စာကဒ်",
+                    "onReading": "めいし"
+                },
+                {
+                    "character": "免許",
+                    "meaning": "လိုင်စင်",
+                    "onReading": "めんきょ"
+                },
+                {
+                    "character": "多く",
+                    "meaning": "များစွာ",
+                    "onReading": "おおく"
+                },
+                {
+                    "character": "前半",
+                    "meaning": "ပထမပိုင်း",
+                    "onReading": "ぜんはん"
+                },
+                {
+                    "character": "後半",
+                    "meaning": "နောက်ပိုင်း",
+                    "onReading": "こうはん"
+                },
+                {
+                    "character": "最高",
+                    "meaning": "အမြင့်ဆုံး/ အကောင်းဆုံး",
+                    "onReading": "さいこう"
+                },
+                {
+                    "character": "最低",
+                    "meaning": "အနိမ့်ဆုံး/ အဆိုးဆုံး",
+                    "onReading": "さいてい"
+                },
+                {
+                    "character": "最初",
+                    "meaning": "ပထမဆုံး",
+                    "onReading": "さいしょ"
+                },
+                {
+                    "character": "最後",
+                    "meaning": "နောက်ဆုံး",
+                    "onReading": "さいご"
+                },
+                {
+                    "character": "自動",
+                    "meaning": "အလိုအလျောက်",
+                    "onReading": "じどう"
+                },
+                {
+                    "character": "種類",
+                    "meaning": "အမျိုးအစား",
+                    "onReading": "しゅるい"
+                },
+                {
+                    "character": "性格",
+                    "meaning": "အကျင့်စာရိတ္တ",
+                    "onReading": "せいかい"
+                },
+                {
+                    "character": "性質",
+                    "meaning": "အရည်အသွေး",
+                    "onReading": "せいしつ"
+                },
+                {
+                    "character": "順番",
+                    "meaning": "အလှည့်/ အစဥ်လိုက်",
+                    "onReading": "じゅんばん"
+                },
+                {
+                    "character": "番",
+                    "meaning": "နံပါတ်/ အလှည့်",
+                    "onReading": "ばん"
+                },
+                {
+                    "character": "方法",
+                    "meaning": "နည်းလမ်း",
+                    "onReading": "ほうほう"
+                },
+                {
+                    "character": "製品",
+                    "meaning": "ကုန်ပစ္စည်း",
+                    "onReading": "せいひん"
+                },
+                {
+                    "character": "値上がりスル",
+                    "meaning": "စျေးတက်သည်",
+                    "onReading": "ねあがり"
+                },
+                {
+                    "character": "生",
+                    "meaning": "အစိမ်း(မချက်မပြုတ်ထားသော)",
+                    "onReading": "なま"
                 }
             ]
         }
