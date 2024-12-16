@@ -182,6 +182,106 @@
                     "character": "帰宅する",
                     "meaning": "အိမ်ပြန်သည်",
                     "onReading": "きたくする"
+                },
+                {
+                    "character": "参加する",
+                    "meaning": "ပါဝင်တက်ရောက်သည်",
+                    "onReading": "さんかする"
+                },
+                {
+                    "character": "出席",
+                    "meaning": "တက်ရောက်သည်",
+                    "onReading": "しゅっせきする"
+                },
+                {
+                    "character": "欠席",
+                    "meaning": "ပျက်ကွက်သည်",
+                    "onReading": "けっせきする"
+                },
+                {
+                    "character": "遅刻",
+                    "meaning": "နောက်ကျသည်",
+                    "onReading": "ちこくする"
+                },
+                {
+                    "character": "化粧",
+                    "meaning": "မိတ်ကပ်လိမ်းသည်",
+                    "onReading": "けしょうする"
+                },
+                {
+                    "character": "計算",
+                    "meaning": "တွက်ချက်သည်",
+                    "onReading": "けいさんする"
+                },
+                {
+                    "character": "計画",
+                    "meaning": "အစီအစဥ်ဆွဲသည်",
+                    "onReading": "けいかくする"
+                },
+                {
+                    "character": "成功",
+                    "meaning": "အောင်မြင်သည်",
+                    "onReading": "せいこうする"
+                },
+                {
+                    "character": "失敗",
+                    "meaning": "ကျရှုံးသည်",
+                    "onReading": "しっぱいする"
+                },
+                {
+                    "character": "準備する",
+                    "meaning": "ပြင်ဆင်သည်",
+                    "onReading": "じゅんびする"
+                },
+                {
+                    "character": "整理する",
+                    "meaning": "ရှင်းလင်းသိမ်းဆည်းသည်",
+                    "onReading": "せいりする"
+                },
+                {
+                    "character": "注文する",
+                    "meaning": "အော်ဒါမှာသည်",
+                    "onReading": "ちゅうもんする"
+                },
+                {
+                    "character": "貯金",
+                    "meaning": "ငွေစုသည်",
+                    "onReading": "ちょきんする"
+                },
+                {
+                    "character": "徹夜スル",
+                    "meaning": "ညလုံးပေါက်",
+                    "onReading": "てつや"
+                },
+                {
+                    "character": "引っ越しスル",
+                    "meaning": "အိမ်ပြောင်းခြင်း",
+                    "onReading": "ひっこし"
+                },
+                {
+                    "character": "身長",
+                    "meaning": "အရပ်",
+                    "onReading": "しんちょう"
+                },
+                {
+                    "character": "体重",
+                    "meaning": "ကိုယ်အလေးချိန်",
+                    "onReading": "たいじゅう"
+                },
+                {
+                    "character": "",
+                    "meaning": "ဒဏ်ရာ",
+                    "onReading": "けが"
+                },
+                {
+                    "character": "会",
+                    "meaning": "ပွဲ",
+                    "onReading": "かい"
+                },
+                {
+                    "character": "趣味",
+                    "meaning": "ဝါသနာ",
+                    "onReading": "しゅみ"
                 }
             ]
         }
