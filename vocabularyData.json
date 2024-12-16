@@ -282,6 +282,106 @@
                     "character": "趣味",
                     "meaning": "ဝါသနာ",
                     "onReading": "しゅみ"
+                },
+                {
+                    "character": "興味",
+                    "meaning": "စိတ်ဝင်စားမှု",
+                    "onReading": "きょうみ"
+                },
+                {
+                    "character": "思い出",
+                    "meaning": "အမှတ်တရ",
+                    "onReading": "おもいで"
+                },
+                {
+                    "character": "冗談",
+                    "meaning": "နောက်ပြောင်ခြင်း",
+                    "onReading": "じょうだん"
+                },
+                {
+                    "character": "目的",
+                    "meaning": "ရည်ရွှယ်ချက်",
+                    "onReading": "もくてき"
+                },
+                {
+                    "character": "約束スル",
+                    "meaning": "ကတိပြုသည်",
+                    "onReading": "やくそく"
+                },
+                {
+                    "character": "",
+                    "meaning": "စကားများ/ ပြောသည်",
+                    "onReading": "おしゅべりスル"
+                },
+                {
+                    "character": "遠慮スル",
+                    "meaning": "အားနာသည်",
+                    "onReading": "えんりょ"
+                },
+                {
+                    "character": "我慢スル",
+                    "meaning": "သည်းခံသည်",
+                    "onReading": "がまん"
+                },
+                {
+                    "character": "迷惑スル",
+                    "meaning": "စိတ်အနှောက်အယှက်ဖြစ်သည်",
+                    "onReading": "めいわく"
+                },
+                {
+                    "character": "希望スル",
+                    "meaning": "မျှော်လင့်ချက်",
+                    "onReading": "きぼう"
+                },
+                {
+                    "character": "夢",
+                    "meaning": "အိမ်မက်/ ရည်မှန်းချက်",
+                    "onReading": "ゆめ"
+                },
+                {
+                    "character": "賛成スル",
+                    "meaning": "ထောက်ခံသည်",
+                    "onReading": "さんせい"
+                },
+                {
+                    "character": "反対スル",
+                    "meaning": "ကန့်ကွက်သည်",
+                    "onReading": "はんたい"
+                },
+                {
+                    "character": "想像スル",
+                    "meaning": "စိတ်ကူးသည်",
+                    "onReading": "そうぞう"
+                },
+                {
+                    "character": "努力スル",
+                    "meaning": "ကြိုးစားအားထုတ်မှု",
+                    "onReading": "どりょく"
+                },
+                {
+                    "character": "太陽",
+                    "meaning": "နေမင်း",
+                    "onReading": "たいよう"
+                },
+                {
+                    "character": "地球",
+                    "meaning": "ကမ္ဘာမြေ",
+                    "onReading": "ちきゅう"
+                },
+                {
+                    "character": "温度",
+                    "meaning": "အပူချိန်",
+                    "onReading": "おんど"
+                },
+                {
+                    "character": "湿度",
+                    "meaning": "စိုထိုင်းဆ",
+                    "onReading": "しつど"
+                },
+                {
+                    "character": "湿気",
+                    "meaning": "စိုထိုင်းဆ",
+                    "onReading": "しっけ"
                 }
             ]
         }
