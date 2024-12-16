@@ -52,6 +52,136 @@
                     "character": "知り合い",
                     "meaning": "အသိမိတ်ဆွေ",
                     "onReading": "しりあい"
+                },
+                {
+                    "character": "友人",
+                    "meaning": "သူငယ်ချင်း",
+                    "onReading": "ゆうじん"
+                },
+                {
+                    "character": "仲",
+                    "meaning": "ဆက်ဆံရေး",
+                    "onReading": "なか"
+                },
+                {
+                    "character": "生年月日",
+                    "meaning": "မွေးသက္ကရာဇ်",
+                    "onReading": "せいねんがっぴ"
+                },
+                {
+                    "character": "誕生する",
+                    "meaning": "မွေးဖွားသည်သည်",
+                    "onReading": "たんじょうする"
+                },
+                {
+                    "character": "年",
+                    "meaning": "နှစ်",
+                    "onReading": "とし"
+                },
+                {
+                    "character": "出身",
+                    "meaning": "ဇာတိတိ",
+                    "onReading": "しゅっしん"
+                },
+                {
+                    "character": "故郷",
+                    "meaning": "မွေးရပ်မြေ",
+                    "onReading": "こきょう"
+                },
+                {
+                    "character": "成長",
+                    "meaning": "အရွှယ်ရောက်သည်",
+                    "onReading": "せいちょうする"
+                },
+                {
+                    "character": "成人",
+                    "meaning": "အရွှယ်ရောက်သူ",
+                    "onReading": "せいじん"
+                },
+                {
+                    "character": "合格",
+                    "meaning": "စာမေးပွဲအောင်သည်",
+                    "onReading": "ごうかくする"
+                },
+                {
+                    "character": "進学する",
+                    "meaning": "ကျောင်းဆက်တက်သည်",
+                    "onReading": "しんがくする"
+                },
+                {
+                    "character": "退学する",
+                    "meaning": "ကျောင်းထွက်သည်",
+                    "onReading": "たいがくする"
+                },
+                {
+                    "character": "就職する",
+                    "meaning": "အလုပ်ဝင်သည်",
+                    "onReading": "しゅうしょくする"
+                },
+                {
+                    "character": "退職する",
+                    "meaning": "အလုပ်ထွက်သည်",
+                    "onReading": "たいしょくする"
+                },
+                {
+                    "character": "失業する",
+                    "meaning": "အလုပ်လက်မဲ့ဖြစ်သည်",
+                    "onReading": "しつぎょうする"
+                },
+                {
+                    "character": "残業する",
+                    "meaning": "အချိန်ပိုဆင်းသည်",
+                    "onReading": "ざんぎょうする"
+                },
+                {
+                    "character": "生活する",
+                    "meaning": "နေထိုင်စားသောက်သည်",
+                    "onReading": "せいかつする"
+                },
+                {
+                    "character": "通勤する",
+                    "meaning": "အလုပ်သွား/ပြန် သည်",
+                    "onReading": "つうきんする"
+                },
+                {
+                    "character": "学歴",
+                    "meaning": "ပညာအရည်အချင်း",
+                    "onReading": "がくれき"
+                },
+                {
+                    "character": "給料",
+                    "meaning": "လစာ",
+                    "onReading": "きゅうりょう"
+                },
+                {
+                    "character": "面接",
+                    "meaning": "အင်တာဗျူးသည်",
+                    "onReading": "めんせつする"
+                },
+                {
+                    "character": "休憩",
+                    "meaning": "ခေတ္တအနားယူသည်",
+                    "onReading": "きゅうけいする"
+                },
+                {
+                    "character": "観光",
+                    "meaning": "အလည်အပတ်ခရီးသွားခြင်း",
+                    "onReading": "かんこう"
+                },
+                {
+                    "character": "帰国する",
+                    "meaning": "တိုင်းပြည်ပြန်သည်",
+                    "onReading": "きこくする"
+                },
+                {
+                    "character": "規制する",
+                    "meaning": "နယ်ပြန်သည်",
+                    "onReading": "きせいする"
+                },
+                {
+                    "character": "帰宅する",
+                    "meaning": "အိမ်ပြန်သည်",
+                    "onReading": "きたくする"
                 }
             ]
         }

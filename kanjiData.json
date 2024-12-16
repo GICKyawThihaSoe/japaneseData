@@ -648,6 +648,72 @@
               "meaning": "ကြာမြင့်ပြီဖြစ်သော/ ‌ရှေးဟောင်း",
               "onReading": "キュウ, ク",
               "kunReading": "ひさ(しい)"
+            },
+            {
+              "character": "才",
+              "meaning": "အရည်အချင်း",
+              "onReading": "サイ",
+              "kunReading": ""
+            },
+            {
+              "character": "支",
+              "meaning": "ပံ့ပိုးမှု/ ဌာနခွဲ",
+              "onReading": "シ",
+              "kunReading": "ささ(える), つか(える), か(う)"
+            },
+            {
+              "character": "戸",
+              "meaning": "တံခါး",
+              "onReading": "コ",
+              "kunReading": "と"
+            },
+            {
+              "character": "欠",
+              "meaning": "မရှိခြင်း",
+              "onReading": "ケツ, ケン",
+              "kunReading": "か(ける), か(く)"
+            },
+            {
+              "character": "王",
+              "meaning": "ဘုရင်",
+              "onReading": "オウ, -ノウ",
+              "kunReading": ""
+            },
+            {
+              "character": "化",
+              "meaning": "ပြောင်းသည်",
+              "onReading": "カ, ケ",
+              "kunReading": "ば(ける), ば(かす), ふ(ける)"
+            },
+            {
+              "character": "内",
+              "meaning": "အတွင်းမှာ",
+              "onReading": "ナイ, ダイ",
+              "kunReading": "うち"
+            },
+            {
+              "character": "反",
+              "meaning": "ဆန့်ကျင်ဘက်",
+              "onReading": "ハン, ホン, タン, ホ",
+              "kunReading": "そ(る), そ(らす), かえ(す)"
+            },
+            {
+              "character": "比",
+              "meaning": "နှိုင်းယှဥ်သည်",
+              "onReading": "ヒ",
+              "kunReading": "くら(べる)"
+            },
+            {
+              "character": "夫",
+              "meaning": "ခင်ပွန်း/ ယောင်္ကျား",
+              "onReading": "フ, フウ, ブ",
+              "kunReading": "おっと, そ(れ)"
+            },
+            {
+              "character": "仏",
+              "meaning": "ဗုဒ္ဓ",
+              "onReading": "ブツ, フツ",
+              "kunReading": "ほとけ"
             }
           ]
         }
